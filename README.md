@@ -1,10 +1,10 @@
 # spring-boot-swagger-application
 A Spring-Boot Application with a REST controller, which exposes a Swagger API catalog.
 
-<img src = "images/img1.jpg">
-
 The Application represent a List of Inventory items.
 This is a simple MVC project with a basic REST controller, which exposes a Swagger API catalog.
+
+<img src = "images/img1.jpg">
 
 All of the Data is stored on H2 Data Base using JPA, in Table 'Inventory' and contain the following columns:  
     
